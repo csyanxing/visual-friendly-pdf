@@ -24,10 +24,7 @@ to convert it.
 
 # Example
 
-Before converting:
+An example pdf paper before and after converting:
 
-![before](doc/before.png)
-
-After converting:
-
-![after](doc/after.png)
+<img src="doc/before.png" width=200>
+<img src="doc/after.png" width=200>
