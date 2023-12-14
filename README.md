@@ -26,5 +26,5 @@ to convert it.
 
 An example pdf paper before and after converting:
 
-<img src="doc/before.png" width=200>
-<img src="doc/after.png" width=200>
+<img src="doc/before_convert.png" width=200>
+<img src="doc/after_convert.png" width=200>
